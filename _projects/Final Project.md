@@ -14,7 +14,7 @@ custom_js:
 Welcome to the interactive earthquake observatory, built by Group 1, for the Final Project of Data Visualizations Coursework
 
 <h3 align="center">Visualization 1: Geopandas Plot with Matplotlib Markers</h3>
-<iframe src="{{ site.baseurl }}/assets/html/visualization_1.html" width="100%" height="600" frameborder="0" allowfullscreen></iframe>
+<iframe src="{{ site.baseurl }}/assets/html/visualization_1.html" width="100%" height="450" frameborder="0" allowfullscreen></iframe>
 
 In this visualization, geopandas was used to create a geographical plot of the earthquake events. You can see the earthquakes on the map, they are color coded by the magnitude and sized by depth. Users can use this visualization to gain insights into earthquake occurrences and their spatial distribution such as identifying high seismic regions. The patterns can be analyzed to see if there is correlation between earthquakes’ magnitude, depth, and geographic locations. Users can assess the impacts of recent earthquakes, which can help with disaster preparedness and responses.
 
